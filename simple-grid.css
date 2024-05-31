@@ -16,13 +16,14 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
+  background-color: #415a77;
 }
 
 /* ROOT FONT STYLES */
 
 * {
   font-family: 'Lato', Helvetica, sans-serif;
-  color: #333447;
+  color: #050507;
   line-height: 1.5;
 }
 
@@ -248,3 +249,5 @@ p {
     max-width: 60rem;
   }
 }
+
+
